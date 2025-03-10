@@ -1,5 +1,7 @@
 # Breast Cancer Detection Using Logistic Regression and Random Forest
 
+Contributors: Batuhan Avci, Kirill Zhukovsky
+
 ## Introduction
 This project implements machine learning models to predict breast cancer diagnosis using the **Breast Cancer Wisconsin (Diagnostic) Dataset**. The dataset contains measurements from digitized images of fine needle aspirate (FNA) of breast mass, with features computed from the images describing characteristics of the cell nuclei.
 
